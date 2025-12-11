@@ -1,4 +1,4 @@
-# Research Insights Dashboard  
+# NIH/NSF Research: UIUC Grant & Funding Analysis 
 📊 **Interactive BI Dashboard for Analyzing Research Grants, Patents, and Demographics**  
 
 This project, developed as part of **IS 525: Data Warehouse and BI** at the **University of Illinois Urbana-Champaign (UIUC)**, provides **data-driven insights** into research funding, institutional collaboration, and demographic diversity in academia.  
